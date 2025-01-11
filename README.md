@@ -1,4 +1,4 @@
-# BreadcrumbsArduino-UNOR3-Smoke-Detector-With-SMS
+# Arduino-UNOR3-Smoke-Detector-With-SMS
 
 This repository contains the code and documentation for a project titled **Smoke Detector with SMS Notification**. The main purpose of this project is to enhance safety and alert the user by integrating a smoke detection system with an SMS notification feature. This allows immediate alerts to be sent to concerned individuals when smoke is detected.
 
