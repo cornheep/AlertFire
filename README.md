@@ -3,7 +3,7 @@
 This repository contains the code and documentation for a project titled **Smoke Detector with SMS Notification**. The main purpose of this project is to enhance safety and alert the user by integrating a smoke detection system with an SMS notification feature. This allows immediate alerts to be sent to concerned individuals when smoke is detected.
 
 ## Project Purpose
-This project is specifically created to fulfill the requirements of **Practical Research 2 and Practical Research 3** by Group 3 of St. Barbara on SY. 2024-2025 on Immaculate Conception Polytechnic - Sta. Maria.
+This project is specifically created to fulfill the requirements of **Practical Research 2 and Practical Research 3** by Group 3 of St. Barbara on SY. 2024-2025 in Immaculate Conception Polytechnic - Sta. Maria.
 
 ## Features
 - **Smoke Detection**: Utilizes a smoke sensor to detect harmful smoke levels.
