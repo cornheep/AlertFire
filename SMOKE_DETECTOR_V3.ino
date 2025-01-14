@@ -4,7 +4,7 @@ SoftwareSerial mySerial(10, 11); // RX and TX
 int MQ4 = A0; 
 int Buzzer =13;
 int R_LED = 7;
-int G_LED = 8;
+int G_LED = 9;
 float val;
 
 
@@ -51,7 +51,7 @@ void SendMessage()
 
 mySerial.println("AT+CMGF=1"); // SMS ACTIVATED
 delay(10); // add delay if needed
-mySerial.println("AT+CMGS=\"09687547296\"\r");//NUMBER
+mySerial.println("AT+CMGS=\"09XXXXXXXXX\"\r");//INPUT NUMBER
 delay(10);
 mySerial.println("SMOKE DETECTED, OPEN YOUR WINDOWS NOW!"); //CUSTOM MESSAGE
 delay(10);
