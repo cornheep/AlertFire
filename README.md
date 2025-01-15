@@ -17,6 +17,7 @@ This project is specifically created to fulfill the requirements of **Practical 
 - LED Lights
 - Arduino UNO R3
 - GSM module (SIM800L V2)
+- Buzzer
 - 12V 1A Power supply
 
 
