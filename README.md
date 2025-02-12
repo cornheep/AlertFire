@@ -31,8 +31,9 @@ This project is specifically created to fulfill the requirements of **Practical 
 ### Setup
 1. Connect the MQ-135 to the microcontroller as per the circuit diagram.
 2. Configure the GSM module for SMS functionality.
-3. Upload the provided code to the microcontroller using the Arduino IDE.
-4. Test the system by simulating smoke detection.
+3. Upload the provided code to the Arduino UNO R3 using the Arduino IDE.
+4. Test the system by simulating smoke.
+
 
 ## Usage
 - Install the system in areas prone to smoke or fire hazards.
