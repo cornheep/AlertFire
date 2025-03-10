@@ -24,6 +24,7 @@ This project is specifically created to fulfill the requirements of **Practical 
 - 1x Jumper Wires
 - 1x DC-DC Buck Converter LM2596S
 - 1x  12V 1A Power supply
+- 1x 3D Printed Casing
 
 
 ## How It Works
