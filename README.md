@@ -46,7 +46,7 @@ This project is specifically created to fulfill the requirements of **Practical 
 - Ensure the SMS feature is functional by testing periodically.
 
 ## Repository Contents
-- `Code`(https://github.com/cornheep/Arduino-UNOR3-Smoke-Detector-With-SMS/blob/main/SMOKE_DETECTOR_V3.ino): Source code for the smoke detection and SMS notification system). [Smoke Detector](https://github.com/cornheep/Arduino-UNOR3-Smoke-Detector-With-SMS/blob/main/SMOKE_DETECTOR_V3.ino) will redirect you directly to the code.
+- `Code`: Source code for the smoke detection and SMS notification system). [Smoke Detector](https://github.com/cornheep/Arduino-UNOR3-Smoke-Detector-With-SMS/blob/main/SMOKE_DETECTOR_V3.ino) will redirect you directly to the code.
 
 ## License
 This project is licensed under the `MIT License`. See the [LICENSE](https://github.com/cornheep/Arduino-UNOR3-Smoke-Detector-With-SMS/blob/main/LICENSE) for details.
