@@ -1,9 +1,9 @@
 # AlertFire (Smoke Detector with SMS capabilities)
 
-This repository contains the code and documentation for a project titled **AlertFire** which is a smoke detector with SMS capabilities that mainly utilizes an Arduino UNO R3, MQ-135 gas/smoke sensor and GSM 800L. The main goal of this project is to enhance safety by alerting the user of this project when smoke is detected. By integrating a smoke detection system with an SMS notification feature, This allows immediate alerts to be sent to individuals using this p when smoke is detected.
+This repository contains the code and documentation for a project titled **AlertFire** which is a smoke detector with SMS alerting capabilities that mainly utilizes an Arduino UNO R3, MQ-135 gas/smoke sensor and GSM 800L. The main goal of this project is to enhance safety by alerting the user of this project when smoke is detected. By integrating a smoke detection system with an SMS notification feature, This allows immediate alerts to be sent to individuals using this p when smoke is detected.
 
 ## Project Purpose
-This project is specifically created to fulfill the requirements of **Practical Research 2 and Practical Research 3** by Group 3 of St. Barbara on SY. 2024-2025 in **Immaculate Conception Polytechnic - Sta. Maria**.
+This project is specifically created to fulfill the requirements of **Practical Research 2 and Practical Research 3** by Group 3 of St. Barbara on SY. 2024-2025 in **Immaculate Conception Polytechnic - Sta. Maria**. 
 
 ## Features
 - **Smoke Detection**: Utilizes a smoke sensor to detect harmful smoke levels.
