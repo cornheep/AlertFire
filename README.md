@@ -37,7 +37,7 @@ This project is specifically created to fulfill the requirements of **Practical 
 
 ### Setup
 1. Connect all of the components as per the code. [Smoke Detector](https://github.com/cornheep/Arduino-UNOR3-Smoke-Detector-With-SMS/blob/main/SMOKE_DETECTOR_V3.ino) will redirect you directly to the code.
-2. Upload the provided code ([Smoke Detector](https://github.com/cornheep/Arduino-UNOR3-Smoke-Detector-With-SMS/blob/main/SMOKE_DETECTOR_V3.ino)) using the Arduino IDE.
+2. Upload the provided [code](https://github.com/cornheep/Arduino-UNOR3-Smoke-Detector-With-SMS/blob/main/SMOKE_DETECTOR_V3.ino) using the Arduino IDE.
 3. Test the system by simulating smoke.
 
 
